@@ -1,0 +1,14 @@
+{
+    "recordUpdate": {
+        "channelId": "8a3adb08-58ec-42c0-83ec-b47ea5942e6b"
+    },
+    "profileUpdate": {
+        "channelId": "9281fad1-fd25-4ce3-9f19-957ea3c6990b"
+    },
+    "privateMessage": {
+        "channelId": "7ba7cdd2-d67d-4e4a-85bd-10ba9daaa208"
+    },
+    "systemMessage": {
+        "channelId": "211cf40d-4625-4247-bf0c-39065ec4f0d3"
+    }
+}

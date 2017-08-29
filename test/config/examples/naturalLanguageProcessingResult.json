@@ -1,0 +1,887 @@
+{
+    "entites": [
+        {
+            "name": "Hurricane Harvey",
+            "type": "PERSON",
+            "metadata": {
+                "mid": "/m/02p50tz"
+            },
+            "salience": 0.27020353078842163,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Hurricane Harvey",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "thousands",
+            "type": "PERSON",
+            "metadata": {},
+            "salience": 0.16942457854747772,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "thousands",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "storm",
+            "type": "EVENT",
+            "metadata": {},
+            "salience": 0.11652283370494843,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "storm",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "rain",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.11652283370494843,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "rain",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "South Texas",
+            "type": "LOCATION",
+            "metadata": {
+                "mid": "/m/041zsd",
+                "wikipedia_url": "https://en.wikipedia.org/wiki/South_Texas"
+            },
+            "salience": 0.10955573618412018,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "South Texas",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "Category 4",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.07756941020488739,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "Category 4",
+                        "beginOffset": -1
+                    },
+                    "type": "PROPER"
+                }
+            ]
+        },
+        {
+            "name": "power",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.061257220804691315,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "power",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "winds",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.03947192430496216,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "winds",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        },
+        {
+            "name": "blasing",
+            "type": "OTHER",
+            "metadata": {},
+            "salience": 0.03947192430496216,
+            "mentions": [
+                {
+                    "text": {
+                        "content": "blasing",
+                        "beginOffset": -1
+                    },
+                    "type": "COMMON"
+                }
+            ]
+        }
+    ],
+    "syntax": {
+        "sentences": [
+            {
+                "text": {
+                    "content": "Hurricane Harvey hit South Texas head-on late Friday, with the Category 4 storm unleashing torrential rain and blasing winds, and leaving thousands without power.",
+                    "beginOffset": -1
+                },
+                "sentiment": null
+            }
+        ],
+        "tokens": [
+            {
+                "text": {
+                    "content": "Hurricane",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "NOUN",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "SINGULAR",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 1,
+                    "label": "NN"
+                },
+                "lemma": "Hurricane"
+            },
+            {
+                "text": {
+                    "content": "Harvey",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "NOUN",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "SINGULAR",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 2,
+                    "label": "NSUBJ"
+                },
+                "lemma": "Harvey"
+            },
+            {
+                "text": {
+                    "content": "hit",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "VERB",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "INDICATIVE",
+                    "number": "NUMBER_UNKNOWN",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "PAST",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 2,
+                    "label": "ROOT"
+                },
+                "lemma": "hit"
+            },
+            {
+                "text": {
+                    "content": "South",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "NOUN",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "SINGULAR",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 4,
+                    "label": "NN"
+                },
+                "lemma": "South"
+            },
+            {
+                "text": {
+                    "content": "Texas",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "NOUN",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "SINGULAR",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 5,
+                    "label": "NN"
+                },
+                "lemma": "Texas"
+            },
+            {
+                "text": {
+                    "content": "head",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "NOUN",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "SINGULAR",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 2,
+                    "label": "DOBJ"
+                },
+                "lemma": "head"
+            },
+            {
+                "text": {
+                    "content": "-",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "PUNCT",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "NUMBER_UNKNOWN",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 2,
+                    "label": "P"
+                },
+                "lemma": "-"
+            },
+            {
+                "text": {
+                    "content": "on",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "PRT",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "NUMBER_UNKNOWN",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 2,
+                    "label": "PRT"
+                },
+                "lemma": "on"
+            },
+            {
+                "text": {
+                    "content": "late",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "ADJ",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "NUMBER_UNKNOWN",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 9,
+                    "label": "AMOD"
+                },
+                "lemma": "late"
+            },
+            {
+                "text": {
+                    "content": "Friday",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "NOUN",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "SINGULAR",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 2,
+                    "label": "TMOD"
+                },
+                "lemma": "Friday"
+            },
+            {
+                "text": {
+                    "content": ",",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "PUNCT",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "NUMBER_UNKNOWN",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 2,
+                    "label": "P"
+                },
+                "lemma": ","
+            },
+            {
+                "text": {
+                    "content": "with",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "ADP",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "NUMBER_UNKNOWN",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 2,
+                    "label": "PREP"
+                },
+                "lemma": "with"
+            },
+            {
+                "text": {
+                    "content": "the",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "DET",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "NUMBER_UNKNOWN",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 15,
+                    "label": "DET"
+                },
+                "lemma": "the"
+            },
+            {
+                "text": {
+                    "content": "Category",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "NOUN",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "SINGULAR",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 15,
+                    "label": "NN"
+                },
+                "lemma": "Category"
+            },
+            {
+                "text": {
+                    "content": "4",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "NUM",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "NUMBER_UNKNOWN",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 13,
+                    "label": "NUM"
+                },
+                "lemma": "4"
+            },
+            {
+                "text": {
+                    "content": "storm",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "NOUN",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "SINGULAR",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 16,
+                    "label": "NSUBJ"
+                },
+                "lemma": "storm"
+            },
+            {
+                "text": {
+                    "content": "unleashing",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "VERB",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "NUMBER_UNKNOWN",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 11,
+                    "label": "PCOMP"
+                },
+                "lemma": "unleash"
+            },
+            {
+                "text": {
+                    "content": "torrential",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "ADJ",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "SINGULAR",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 18,
+                    "label": "AMOD"
+                },
+                "lemma": "torrential"
+            },
+            {
+                "text": {
+                    "content": "rain",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "NOUN",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "SINGULAR",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 16,
+                    "label": "DOBJ"
+                },
+                "lemma": "rain"
+            },
+            {
+                "text": {
+                    "content": "and",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "CONJ",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "NUMBER_UNKNOWN",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 18,
+                    "label": "CC"
+                },
+                "lemma": "and"
+            },
+            {
+                "text": {
+                    "content": "blasing",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "NOUN",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "SINGULAR",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 21,
+                    "label": "NN"
+                },
+                "lemma": "blasing"
+            },
+            {
+                "text": {
+                    "content": "winds",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "NOUN",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "SINGULAR",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 18,
+                    "label": "CONJ"
+                },
+                "lemma": "wind"
+            },
+            {
+                "text": {
+                    "content": ",",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "PUNCT",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "NUMBER_UNKNOWN",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 16,
+                    "label": "P"
+                },
+                "lemma": ","
+            },
+            {
+                "text": {
+                    "content": "and",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "CONJ",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "NUMBER_UNKNOWN",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 16,
+                    "label": "CC"
+                },
+                "lemma": "and"
+            },
+            {
+                "text": {
+                    "content": "leaving",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "VERB",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "NUMBER_UNKNOWN",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 16,
+                    "label": "CONJ"
+                },
+                "lemma": "leave"
+            },
+            {
+                "text": {
+                    "content": "thousands",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "NOUN",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "PLURAL",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 24,
+                    "label": "DOBJ"
+                },
+                "lemma": "thousand"
+            },
+            {
+                "text": {
+                    "content": "without",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "ADP",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "NUMBER_UNKNOWN",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 24,
+                    "label": "PREP"
+                },
+                "lemma": "without"
+            },
+            {
+                "text": {
+                    "content": "power",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "NOUN",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "SINGULAR",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 26,
+                    "label": "POBJ"
+                },
+                "lemma": "power"
+            },
+            {
+                "text": {
+                    "content": ".",
+                    "beginOffset": -1
+                },
+                "partOfSpeech": {
+                    "tag": "PUNCT",
+                    "aspect": "ASPECT_UNKNOWN",
+                    "case": "CASE_UNKNOWN",
+                    "form": "FORM_UNKNOWN",
+                    "gender": "GENDER_UNKNOWN",
+                    "mood": "MOOD_UNKNOWN",
+                    "number": "NUMBER_UNKNOWN",
+                    "person": "PERSON_UNKNOWN",
+                    "proper": "PROPER_UNKNOWN",
+                    "reciprocity": "RECIPROCITY_UNKNOWN",
+                    "tense": "TENSE_UNKNOWN",
+                    "voice": "VOICE_UNKNOWN"
+                },
+                "dependencyEdge": {
+                    "headTokenIndex": 2,
+                    "label": "P"
+                },
+                "lemma": "."
+            }
+        ],
+        "language": "en"
+    },
+    "sentiment": {
+        "magnitude": 0.10000000149011612,
+        "score": 0.10000000149011612
+    }
+}

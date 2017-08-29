@@ -1,0 +1,28 @@
+{
+    "types": {
+        "cnn": {
+            "secure": false,
+            "host": "http://www.cnn.com",
+            "port": 80
+        }
+    },
+    "mongo": {
+        "hostname": "localhost",
+        "port": 27017,
+        "db": "newsScrapper",
+        "collections": [
+            "records"
+        ]
+    },
+    "timeouts": {
+        "nlp": 1000
+    },
+    "socketServer": {
+        "protocol": "http",
+        "port": 8899,
+        "pingInterval": 10000,
+        "pingTimeout": 5000,
+        "cookie": false,
+        "transports": ["polling","websocket"]
+    }
+}

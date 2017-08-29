@@ -1,0 +1,411 @@
+{
+    "layout": "no-rail",
+    "sectionName": "homepage",
+    "pageType": "section",
+    "env": "prod",
+    "type": "page",
+    "analytics": {
+        "pageTop": {},
+        "headline": "",
+        "author": "",
+        "showName": "",
+        "subSectionName": "",
+        "isArticleVideoCollection": false,
+        "publishDate": "2017-08-26T15:40:13Z",
+        "pageBranding": "default",
+        "chartbeat": {
+            "sections": ""
+        },
+        "branding_content_page": "default",
+        "branding_content_zone": [
+            "default"
+        ],
+        "branding_content_container": [
+            "default",
+            "cnn-money-markets",
+            "declassified"
+        ],
+        "branding_content_card": [
+            ""
+        ]
+    },
+    "edition": "domestic",
+    "title": "CNN - Breaking News, Latest News and Videos",
+    "siblings": {
+        "articleList": [
+            {
+                "uri": "/2017/08/26/us/hurricane-harvey-landfall/index.html",
+                "headline": "<strong>Texans get first look at damage left behind by the most powerful hurricane to hit US in a decade</strong>",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170826112917-14-hurricane-harvey-0826-rockport-small-11.jpg",
+                "duration": "",
+                "description": "Hurricane Harvey hit South Texas head-on late Friday, with the Category 4 storm unleashing torrential rain and blasing winds, and leaving thousands without power.",
+                "layout": ""
+            },
+            {
+                "uri": "/2017/08/25/us/hurricane-harvey-latest/index.html",
+                "headline": "Rockport mayor: 'There's widespread devastation'",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170825100249-hurricane-harvey-space-station-1-small-11.jpg",
+                "duration": "",
+                "description": "",
+                "layout": ""
+            },
+            {
+                "uri": "/videos/weather/2017/08/26/stormchaser-captures-hurricane-harvey-destruction-footage-new-day-weekend.cnn",
+                "headline": "Stormchaser captures Hurricane Harvey's force",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170826074033-jim-edds-stormchaser-hurricane-harvey-footage-small-11.jpg",
+                "duration": "02:31",
+                "description": "Jim Edds, a stormchaser who specializes in recording extreme weather events, captured video of Hurricane Harvey's destruction in south Texas, including exploding power lines and storm surges.",
+                "layout": "",
+                "iconType": "video"
+            },
+            {
+                "uri": "/2017/08/25/politics/trump-harvey-declaration/index.html",
+                "headline": "Trump makes disaster declaration for Harvey",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170825070624-01-donald-trump-0823-small-11.jpg",
+                "duration": "",
+                "description": "President Donald Trump issued a major disaster declaration as Hurricane Harvey made landfall in Texas on Friday evening. ",
+                "layout": ""
+            },
+            {
+                "uri": "/2017/08/25/opinions/texans-and-their-hurricanes-opinion-moore/index.html",
+                "headline": "Opinion: Texans know the power of storms ",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170825094917-01-hurricane-harvey-nws-small-11.jpg",
+                "duration": "",
+                "description": "When the great-named storms surge against the Texas coast, the rising water might stir up a few ghosts. <a href=\"http://www.preview.cnn.com/2017/08/25/us/hurricane-harvey-latest/index.html\">Harvey's landfall</a>, not far from Matagorda Bay, will be an historical reminder of how the state has been shaped by hurricanes and meteorological tragedy.",
+                "layout": ""
+            },
+            {
+                "uri": "/2017/08/25/us/texas-couple-cancels-wedding-hurricane-harvey/index.html",
+                "headline": "Harvey cancels couple's 3rd attempt to wed",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170825215327-harvey-wedding-cancelled-small-11.jpg",
+                "duration": "",
+                "description": "They say the third time's a charm, but that's not true for Texas couple Jenny Swarers and Dustin Morgan. They have had to cancel their wedding three times -- all thanks to flooding.",
+                "layout": ""
+            },
+            {
+                "uri": "/2017/08/25/politics/white-house-three-headlines-during-hurricane-friday/index.html",
+                "headline": "<strong>Three headlines the White House hopes you'll miss as Hurricane Harvey hits</strong>",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170825234211-trump-walks-to-marine-one-small-11.jpg",
+                "duration": "",
+                "description": "As the strongest hurricane to make landfall in the US in more than a decade <a href=\"http://www.cnn.com/2017/08/25/us/hurricane-harvey/index.html\">took aim at Texas</a>, President Donald Trump's White House engaged in an age-old Washington tradition: the Friday news dump.",
+                "layout": ""
+            },
+            {
+                "uri": "/2017/08/25/asia/north-korea-fires-projectile/index.html",
+                "headline": "<strong>North Korea launches missiles days after US praised restraint</strong>",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170413171056-07-kim-jong-un-0413-small-11.jpg",
+                "duration": "",
+                "description": "North Korea fired an \"unidentified projectile\" from Kittaeryong into the sea east of the Korean Peninsula, the South Korean Joint Chiefs of Staff said in a news release Saturday. ",
+                "layout": ""
+            },
+            {
+                "uri": "/2017/08/24/europe/ukraine-north-korea-spies/index.html",
+                "headline": "The spies caught in the act",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170824162143-01-tease-cnn-nk-spies-ukraine-small-11.jpg",
+                "duration": "",
+                "description": "The images are a little grainy, but in the half-light of a dusty Ukrainian garage, you can sense the unbridled enthusiasm of the two North Korean spies who are photographing what they think are top-secret missile designs.",
+                "layout": ""
+            },
+            {
+                "uri": "/2017/08/25/politics/gorka/index.html",
+                "headline": "Gorka out as White House adviser",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170810151451-02-sebastian-gorka-lead-image-small-11.jpg",
+                "duration": "",
+                "description": "Sebastian Gorka has resigned from his position as a top counterterrorism adviser to President Donald Trump, a White House official tells CNN. ",
+                "layout": ""
+            },
+            {
+                "uri": "/2017/08/26/politics/trump-arpaio/index.html",
+                "headline": "Cillizza: Arpaio pardon is the absolute epitome of Trumpism",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170825201019-01-joe-arpaio-small-11.jpg",
+                "duration": "",
+                "description": "President Donald Trump's decision --<a href=\"http://www.cnn.com/2017/08/25/politics/sheriff-joe-arpaio-donald-trump-pardon/index.html\"> announced late Friday night</a> -- to pardon controversial former Maricopa County Sheriff Joe Arpaio was the Platonic ideal of Trumpism.",
+                "layout": ""
+            },
+            {
+                "uri": "/videos/politics/2017/08/26/arpaio-pardon-reaction-phoenix-orig-vstan-cws.cnn",
+                "headline": "Phoenix reacts to Arpaio's pardon",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170825205113-joe-arpaio-file-2013-small-11.jpg",
+                "duration": "01:39",
+                "description": "Community groups in Phoenix reacted to President Donald Trump's pardon of controversial former Sheriff Joe Arpaio, who was found guilty of criminal contempt for disregarding a court order in a racial-profiling case.",
+                "layout": "",
+                "iconType": "video"
+            },
+            {
+                "uri": "/2017/08/25/politics/koch-brothers-trump-tax-reform/index.html",
+                "headline": "Trump drama doesn't deter Koch Bros",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170410072810-mobapp-koch-bros-split-small-11.jpg",
+                "duration": "",
+                "description": "While President Donald Trump's incendiary tweets and unorthodox behavior dominates headlines, well-heeled conservative groups and lobbyists are trying to focus their energy elsewhere, spending significant resources to push through what could be the most important legislative goal of Trump's first year: Tax reform.",
+                "layout": ""
+            },
+            {
+                "uri": "/videos/us/2017/08/25/2-year-old-dies-after-car-window-accident-orig-vstan-aa.cnn",
+                "headline": "Boy, 2, dies from car window incident",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170825171156-2-year-old-dies-after-car-window-accident-orig-vstan-aa-00000000-small-11.jpg",
+                "duration": "01:01",
+                "description": "In a tragic turn of events, 2-year-old Logan Vanderkleed died one week after getting his neck caught in a car window. ",
+                "layout": "",
+                "iconType": "video"
+            },
+            {
+                "uri": "/videos/us/2017/08/24/powerball-winner-massachusetts-quit-job-sot.wcvb",
+                "headline": "She just won $750M. Now what?",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170824134451-powerball-winner-mavis-wanczyk-small-11.jpg",
+                "duration": "00:40",
+                "description": "Mavis Wanczyk, the winner of a $758.7 million Powerball, says she quit her job after learning she won the lottery. ",
+                "layout": "",
+                "iconType": "video"
+            },
+            {
+                "uri": "/2017/08/25/app-news-section/what-happened-this-week-anything-but-politics-trnd/index.html",
+                "headline": "What happened this week (that wasn't politics)",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170526092343-wonder-woman-gal-gadot-small-11.jpg",
+                "duration": "",
+                "description": "We kicked off the week with a total eclipse but that was not all. We had <a href=\"http://www.cnn.com/2017/08/22/entertainment/taylor-swift-snakes/index.html\" target=\"_blank\">snakes</a>, <a href=\"http://bleacherreport.com/articles/2729175-connor-mcgregor-and-floyd-mayweather-trade-insults-in-final-presser-before-fight?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial\" target=\"_blank\">beefs</a> and a<a href=\"http://money.cnn.com/2017/08/24/news/companies/amazon-whole-foods/index.html\" target=\"_blank\"> whole</a> lot of other stuff. Here's what happened outside the world of politics. ",
+                "layout": ""
+            },
+            {
+                "uri": "/2017/08/25/us/cnn-news-quiz-8-25-trnd/index.html",
+                "headline": "Think you know this week's news?",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170825103230-cnn-news-quiz-aug-25-small-11.jpg",
+                "duration": "",
+                "description": "",
+                "layout": ""
+            },
+            {
+                "uri": "/videos/us/2017/08/25/ohio-log-cabin-discovery-orig-vstan.cnn",
+                "headline": "1800s log cabin found in walls of Ohio home",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170825143032-dublin-ohio-log-cabin-find-2-small-11.jpg",
+                "duration": "00:56",
+                "description": "An Ohio couple discovered a 19th-century log cabin inside the walls of a newly purchased home they were planning to demolish.",
+                "layout": "",
+                "iconType": "video"
+            },
+            {
+                "uri": "/2017/08/23/us/spyhunter-russia-bug-us-state-department-declassified/index.html",
+                "headline": "When Russia bugged the US State Department",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170816142553-declassified-wiretapping-1-small-11.jpg",
+                "duration": "",
+                "description": "",
+                "layout": ""
+            },
+            {
+                "uri": "/videos/us/2017/08/25/sharks-swim-through-schools-of-fish-orig-lc.cnn",
+                "headline": "Watch sharks chase massive schools of fish",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170825134112-sharks-swim-through-schools-of-fish-orig-lc-00004203-small-11.jpg",
+                "duration": "01:00",
+                "description": "Mesmerizing video shows sandbar and dusky sharks swim through massive schools of menhaden and bunker fish in Long Island waters.",
+                "layout": "",
+                "iconType": "video"
+            },
+            {
+                "uri": "/videos/sports/2017/08/25/mayweather-mcgregor-fight-weigh-in.cnn",
+                "headline": "Emotions run high at weigh-in",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170825192521-mayweather-mcgregor-fight-weigh-in-00012606-small-11.jpg",
+                "duration": "01:35",
+                "description": "Legendary, undefeated boxer Floyd Mayweather and UFC star Conor McGregor weigh-in for their much-anticipated fight. ",
+                "layout": "",
+                "iconType": "video"
+            },
+            {
+                "uri": "/2017/08/25/sport/conor-mcgregor-floyd-mayweather-jr-fight-las-vegas/index.html",
+                "headline": "A closer look at Conor McGregor",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170825124328-mcgregor-tease-small-11.jpg",
+                "duration": "",
+                "description": "Shades on, slouched casually in his chair, Conor McGregor doesn't exude the air of a man about to enter a fight most people expect him to lose.",
+                "layout": ""
+            },
+            {
+                "uri": "/videos/us/2017/08/24/where-are-you-really-from-orig-tc-cz.cnn",
+                "headline": "If you've asked this question, you shouldn't have",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170824140406-where-are-you-from-small-11.jpg",
+                "duration": "03:05",
+                "description": "\"Where are you really from?\" It's a polarizing question that many people get asked. It can imply you aren't American and make you feel you don't belong.",
+                "layout": "",
+                "iconType": "video"
+            },
+            {
+                "uri": "/style/article/abandoned-wrecks-chris-mcnab/index.html",
+                "headline": "Frozen in time: Abandoned wrecks around the world ",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170823153022-8-abandoned-wrecks-chris-mcnab-small-11.jpg",
+                "duration": "",
+                "description": "A car upturned and standing on its nose, subjected to the harsh weather of the Nevada desert. A Canadian schooner that sank in 1885 and rests, preserved to this day, in a harbor in Lake Huron. A space shuttle left forgotten in its hanger. ",
+                "layout": ""
+            },
+            {
+                "uri": "/2017/08/25/world/gallery/week-in-photos-0825/index.html",
+                "headline": "The week in 29 photos",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170824164234-11-week-in-photos-0825-small-11.jpg",
+                "duration": "",
+                "description": "Take a look at 29 photos of the week from August 18 through August 24.",
+                "layout": "",
+                "iconType": "gallery"
+            },
+            {
+                "uri": "/2013/08/17/world/gallery/princess-diana/index.html",
+                "headline": "Remembering Princess Diana: Her life and legacy",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170726123442-princess-diana-life-01-restricted-small-11.jpg",
+                "duration": "",
+                "description": "Princess Diana remains a beloved figure 20 years after her untimely death. See more photos of the British icon and the legacy she left behind.",
+                "layout": "",
+                "iconType": "gallery"
+            },
+            {
+                "uri": "/videos/us/2017/08/25/denver-cheerleaders-splits-jnd-vstop-orig.cnn",
+                "headline": "Police investigate video of cheer practice",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170825043536-forced-cheerleader-1-small-11.jpg",
+                "duration": "00:55",
+                "description": "Denver police launched an investigation after a video from a high school cheerleading practice surfaced that the superintendent called \"extremely distressing.\"",
+                "layout": "",
+                "iconType": "video"
+            },
+            {
+                "uri": "/videos/us/2017/08/25/ohio-log-cabin-discovery-orig-vstan.cnn",
+                "headline": "1800s log cabin found in walls of Ohio home",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170825143032-dublin-ohio-log-cabin-find-2-small-11.jpg",
+                "duration": "00:56",
+                "description": "An Ohio couple discovered a 19th-century log cabin inside the walls of a newly purchased home they were planning to demolish.",
+                "layout": "",
+                "iconType": "video"
+            },
+            {
+                "uri": "/videos/entertainment/2017/08/25/alec-baldwin-trump-rally-weekend-update-jnd-orig-vstan.cnn",
+                "headline": "Baldwin returns to spoof Trump's rally",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170825003358-alec-baldwin-8-24-c-small-11.jpg",
+                "duration": "00:51",
+                "description": "Alec Baldwin returned to NBC's \"Weekend Update\" and impersonated President Donald Trump at his campaign rally in Arizona. ",
+                "layout": "",
+                "iconType": "video"
+            },
+            {
+                "uri": "/videos/politics/2017/08/24/duck-dynasty-korie-robertson-on-donald-trump-sot.cnn",
+                "headline": "'Duck Dynasty' star can't defend Trump",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170824171306-kori-robertson-small-11.jpg",
+                "duration": "02:01",
+                "description": "Reality star Korie Robertson gets emotional while talking about President Trump's remarks after the attack in Charlottesville, Virginia, saying she cannot defend the President's comments. ",
+                "layout": "",
+                "iconType": "video"
+            },
+            {
+                "uri": "/2017/08/25/europe/kim-wall-peter-madsen-denies-murder/index.html",
+                "headline": "Inventor denies murdering Swedish journalist",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170822163925-01-kim-wall-handout-small-11.jpg",
+                "duration": "",
+                "description": "Peter Madsen, the Danish inventor suspected of killing Swedish journalist Kim Wall, has denied that he was responsible for her murder, Copenhagen police said Friday. ",
+                "layout": ""
+            },
+            {
+                "uri": "/2017/08/24/health/stress-eating-explainer/index.html",
+                "headline": "Can eating ever really relieve stress?",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170817234022-tine-fey-cake-2-small-11.jpg",
+                "duration": "",
+                "description": "Tina Fey <a href=\"http://www.cnn.com/videos/cnnmoney/2017/08/18/fallon-meyers-fey-weekend-update-charlottesville-jnd-orig-vstan.cnn/video/playlists/money-and-late-night-laughs/\" target=\"_blank\">shoveled sheet cake into her mouth</a> on a \"Saturday Night Live\" skit while ranting about the politics surrounding violent rallies in Charlottesville, Virginia. She urged viewers to not attend the dangerous marches and to eat cake instead.",
+                "layout": ""
+            },
+            {
+                "uri": "/2017/08/23/politics/north-korea-condemns-us-south-korea-drills/index.html",
+                "headline": "N. Korea mocks 'weird' Trump tweets",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/150616144835-kim-rocket-smile-small-11.jpg",
+                "duration": "",
+                "description": "North Korea had more harsh words for the US on Wednesday, strongly condemning US-South Korean joint military exercises and criticizing President Donald Trump's \"weird\" and \"ego-driven\" social media posts just hours after Trump claimed the rogue nation's leader is \"<a href=\"http://www.cnn.com/2017/08/22/politics/trump-phoenix-rally/index.html\">starting to respect us</a>.\" ",
+                "layout": ""
+            },
+            {
+                "uri": "/travel/article/new-york-restaurants-in-miami/index.html",
+                "headline": "Why are there so many New York restaurants in Miami?",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170802143655-nyc-restaurants-in-miami-sushi-samba-small-11.jpg",
+                "duration": "",
+                "description": "Miami's food scene may conjure images of stone crabs, croquetas and tostada Cubanas, but these days the New York influence is just as heavy.",
+                "layout": ""
+            },
+            {
+                "uri": "/videos/travel/2017/07/28/with-me-as-your-guide-urban-explorer-abandoned-photographer-new-orleans-orig.cnn",
+                "headline": "Go inside New Orleans' abandoned buildings",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170728145751-wmayg-nola-06-small-11.jpg",
+                "duration": "02:32",
+                "description": "Follow an urban explorer into a few of New Orleans' 20,000 abandoned properties, as he photographs their inner beauty before they disappear. Explore more <a href=\"http://www.cnn.com/travel/specials/with-me-as-your-guide\">offbeat adventures</a> with our expert guides. ",
+                "layout": "",
+                "iconType": "video"
+            },
+            {
+                "uri": "/style/article/ettore-sottsass-met-breuer/index.html",
+                "headline": "The genius who designed the '80s",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170824103646-sottsass-tease-new-small-11.jpg",
+                "duration": "",
+                "description": "In the 1980s and early 1990s, garish swirling graphics and colorful geometric shapes ruled American TV screens, department stores and high school playgrounds.",
+                "layout": ""
+            },
+            {
+                "uri": "/videos/politics/2017/08/23/protest-trump-rally-phoenix-jnd-orig-vstan.cnn",
+                "headline": "Protesters clash with police after Trump's rally",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170823005253-05-phoenix-trump-protest-0822-small-11.jpg",
+                "duration": "01:19",
+                "description": "What began as a peaceful protest outside the Phoenix Convention Center turned chaotic as police officers used tear gas to manage the thousands protesting President Donald Trump's rally.",
+                "layout": "",
+                "iconType": "video"
+            },
+            {
+                "uri": "/2017/08/24/health/cinnamon-health-benefits/index.html",
+                "headline": "The pantry staple that's also a medical powerhouse",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170807181545-herbs-and-spices-cinnamon-small-11.jpg",
+                "duration": "",
+                "description": "Cinnamon is one of the world's most popular spices, sprinkled on lattes, boiled with ciders and enjoyed in numerous dishes. Without it, Thanksgiving and Christmas meals might well become tasteless and definitely less fragrant. ",
+                "layout": ""
+            },
+            {
+                "uri": "/2017/08/25/us/tiger-cub-smuggle-attempt/index.html",
+                "headline": "Man charged with smuggling tiger cub",
+                "thumbnail": "//i2.cdn.cnn.com/cnnnext/dam/assets/170824172747-tiger-cub-smuggle-attemp-small-11.jpg",
+                "duration": "",
+                "description": "A California man has been charged with smuggling a Bengal tiger cub into the United States from Mexico. He told investigators he wanted to keep the tiger as a pet, the United States Attorney's Office said.",
+                "layout": ""
+            }
+        ]
+    },
+    "registryURL": "//z.cdn.turner.com/ads/cnn/cnn_homepage.js",
+    "entitlementSingletons": [
+        {
+            "id": "ad_mod_3bc717c42",
+            "scriptName": "//i.cdn.cnn.com/ads/cnn/singles/cnn_entitlement_hp_01.js"
+        },
+        {
+            "id": "ad_mod_1963034fc",
+            "scriptName": "//z.cdn.turner.com/ads/cnn/singles/cnn_entitlement_hp_02.js"
+        },
+        {
+            "id": "ad_mod_ff88f43a7",
+            "scriptName": "//z.cdn.turner.com/ads/cnn/singles/cnn_entitlement_hp_03.js"
+        },
+        {
+            "id": "ad_mod_e6ebd187c",
+            "scriptName": "//z.cdn.turner.com/ads/cnn/singles/cnn_entitlement_hp_04.js"
+        },
+        {
+            "id": "ad_mod_2a2a5c535",
+            "scriptName": "//z.cdn.turner.com/ads/cnn/singles/cnn_entitlement_hp_05.js"
+        }
+    ],
+    "zoneIds": [
+        "homepage1-zone-1",
+        "homepage2-zone-1",
+        "homepage3-zone-1",
+        "homepage4-zone-1",
+        "homepage4-zone-2",
+        "homepage4-zone-3",
+        "homepage4-zone-4",
+        "homepage4-zone-5",
+        "homepage4-zone-6",
+        "homepage4-zone-7"
+    ],
+    "loadAllZonesLazy": true,
+    "lazyLoad": true,
+    "enableIntelligentLoad": true,
+    "feedback": {
+        "apiEndpoint": "https://mailcar.cnn.com/api/v1/"
+    },
+    "uri": "/index.html",
+    "canonicalUrl": "http://www.cnn.com",
+    "editionizedUrl": "http://www.cnn.com",
+    "hasVideo": false
+}

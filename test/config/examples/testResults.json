@@ -1,0 +1,76 @@
+{
+    "entites": [
+        {
+            "name": "Hurricane Harvey",
+            "entityType": "PERSON",
+            "salience": 0.27020353078842163
+        },
+        {
+            "name": "thousands",
+            "entityType": "PERSON",
+            "salience": 0.16942457854747772
+            
+        },
+        {
+            "name": "storm",
+            "entityType": "EVENT",
+            "salience": 0.11652283370494843
+        },
+        {
+            "name": "rain",
+            "entityType": "OTHER",
+            "salience": 0.11652283370494843
+        },
+        {
+            "name": "South Texas",
+            "entityType": "LOCATION",
+            "salience": 0.10955573618412018
+        },
+        {
+            "name": "Category 4",
+            "entityType": "OTHER",
+            "salience": 0.07756941020488739
+        },
+        {
+            "name": "power",
+            "entityType": "OTHER",
+            "salience": 0.061257220804691315
+        },
+        {
+            "name": "winds",
+            "entityType": "OTHER",
+            "salience": 0.03947192430496216
+        },
+        {
+            "name": "blasing",
+            "entityType": "OTHER",
+            "salience": 0.03947192430496216
+        }
+    ],
+    "nouns": [ 
+        "Hurricane",
+        "Harvey",
+        "South",
+        "Texas",
+        "head",
+        "Friday",
+        "Category",
+        "storm",
+        "rain",
+        "blasing",
+        "winds",
+        "thousands",
+        "power" 
+    ],
+    "verbs": [ 
+        "hit", 
+        "unleashing", 
+        "leaving" 
+    ],
+    "adj": [ 
+        "late", 
+        "torrential" 
+    ],
+    "magnitude": 0.10000000149011612,
+    "score": 0.10000000149011612
+}
