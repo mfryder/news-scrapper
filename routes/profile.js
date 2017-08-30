@@ -7,7 +7,7 @@ router.get('/recalculate/:type', reCalculateProfile);
 
 
 function getFullProfile(req, res, next){
-    ProfileService.getFull(req.params.type)
+    ProfileService.findByType(req.params.type)
         .then(function success(responseObj){
             res.send(responseObj);
         })
