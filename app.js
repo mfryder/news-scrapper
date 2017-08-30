@@ -29,7 +29,7 @@ db.once('open', function() {
     const mongoModels = require('./lib/data/mongo/models');    
     mongoModels.initialize();                                         //initializes all mongo models with their schemas
 
-    app.use(bodyParser.json());
+    app.use(bodyParser.json());                                       //load in json parsing into the middleware on all routes (express)
     app.use(express.static(path.join(__dirname, 'dist')));
     
     //setting up routes and tying them to express   

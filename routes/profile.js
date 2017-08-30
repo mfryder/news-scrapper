@@ -2,14 +2,15 @@ var express = require('express');
 var router = express.Router();
 var ProfileService = require('../lib/ProfileService');
 var logger = require('winston');
-router.get('/all/:type', getFullProfile);
-router.get('/recalculate/:type', reCalculateProfile);
+
+router.get('/all/:type', getFullProfile);                           //express setting the route path information and what function will be called
+router.get('/recalculate/:type', reCalculateProfile);               
 
 
-function getFullProfile(req, res, next){
+function getFullProfile(req, res, next){                            //node contains the request object, response object, and the next in chain
     ProfileService.findByType(req.params.type)
         .then(function success(responseObj){
-            res.send(responseObj);
+            res.send(responseObj);                                  //node sending response object
         })
         .catch(function error(err){
             var statusCode = 500;
@@ -48,4 +49,4 @@ function reCalculateProfile(req, res, next){
         });
 }
 
-module.exports = router;
+module.exports = router;                                            //exporting back express router information about Profile route
